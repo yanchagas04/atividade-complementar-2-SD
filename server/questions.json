@@ -1,0 +1,31 @@
+{
+    "Tecnologia": [
+        {
+            "question": "O que significa 'HTTP'?",
+            "options": [
+                "HyperText Transfer Protocol",
+                "High Transfer Text Protocol",
+                "Hyper Transfer Text Protocol",
+                "High Text Transfer Protocol"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Qual linguagem usa 'print' para exibir texto?",
+            "options": ["Java", "Python", "C++", "JavaScript"],
+            "correct": 1
+        }
+    ],
+    "Filmes": [
+        {
+            "question": "Quem dirigiu 'Pulp Fiction'?",
+            "options": [
+                "Martin Scorsese",
+                "Quentin Tarantino",
+                "Steven Spielberg",
+                "James Cameron"
+            ],
+            "correct": 1
+        }
+    ]
+}
